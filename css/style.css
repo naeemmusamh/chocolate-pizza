@@ -1,0 +1,151 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-image: url(https://www.designbolts.com/wp-content/uploads/2013/02/Knot-Grey-Seamless-Pattern-For-Website-Background.jpg);
+}
+header {
+    background-color: white;
+    border: 6px solid rgb(194, 194, 194, 0.644);
+    width: 1000px;
+    margin-left: 120px;
+}
+main {
+    background-color: white;
+    border: 6px solid rgb(194, 194, 194, 0.644);
+    margin-top: 8px;
+    width: 1000px;
+    margin-left: 120px;
+}
+footer {
+    background-color: white;
+    border: 6px solid rgb(194, 194, 194, 0.644);
+    margin-top: 8px;
+    padding-left: 200px;
+    width: 1000px;
+    margin-left: 120px;
+}
+.line {
+    background-image: url("hr-image.png");
+    text-size-adjust: 6px;
+    background-color: rgba(100, 100, 100, 0.1);
+    font-weight: 100;
+}
+.cursive {
+    font-family: 'Dancing Script', cursive;
+}
+h1 {
+    font-weight: bold;
+}
+li {
+    list-style-type: square;
+}
+.right {
+    float: right;
+    margin-right: 500px;
+}
+.left {
+    display: inline;
+}
+.container {
+    position: relative;
+}
+.text-block {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    background-color: transparent;
+    padding-right: 20px;
+    margin-left: 180px;
+    margin-bottom: 50px;
+}
+.lefty {
+    float: left;
+}
+.par {
+    max-width: 900px;
+}
+.center {
+    align-content: stretch;
+}
+#button {
+    background: rgb(241, 103, 69);
+    size: 130px;
+    height: 40px;
+}
+footer .p1 h4 {
+    position: relative;
+    bottom: 80px;
+    font-size: smaller;
+    color: rgb(123, 124, 124);
+    padding-left: 80px;
+}
+.p1 button {
+    position: relative;
+    left: 580px;
+    bottom: 180px;
+}
+footer .logo1 img {
+    position: relative;
+    left: 270px;
+}
+footer div .p2 {
+    color: rgb(123, 124, 124);
+    margin-left: 200px;
+}
+.left {
+    display: inline-block;
+}
+body header .right {
+    position: relative;
+    bottom: 40px;
+    left: 420px;
+}
+body .left img {
+    position: relative;
+    top: 15px;
+    left: 160px;
+}
+header .left h1 {
+    display: inline-block;
+    position: relative;
+    left: 160px;
+    bottom: 20px;
+    top: 1px;
+}
+header .left h4 {
+    display: inline-block;
+    position: relative;
+    top: 15px;
+    font-size: smaller;
+    color: rgb(123, 124, 124);
+    padding-left: 55px;
+}
+main .left h4 {
+    color: rgb(123, 124, 124);
+}
+main .left h1,
+main .left h4 {
+    position: relative;
+    top: 60px;
+    padding-left: 180px;
+}
+main .right1 {
+    color: rgb(123, 124, 124);
+    padding-left: 830px;
+}
+.i1 {
+    margin-left: 20px;
+}
+.mainImg {
+    padding-left: 170px;
+}
+main .par p {
+    padding-left: 170px;
+}
+main .container img {
+    padding-left: 170px;
+}
+.n1 {
+    padding-left: 25px;
+}
